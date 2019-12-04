@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1562650632 source:d:\glut project\tugas5_grafkom_e_672017081\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\assert.h
+	<_mingw.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1219428390 c:\program files (x86)\codeblocks\mingw\include\imageloader.h
+
+1562650632 source:e:\tugas5_grafkom_e_672017081\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
